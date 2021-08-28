@@ -1,5 +1,5 @@
 <h1>Simple MultiSeller eCommerce</h1>
 
-# About Simplt MultiSeller eCommerce
+<b>About Simplt MultiSeller eCommerce</b>
 
 - .... i don't know hahaha
